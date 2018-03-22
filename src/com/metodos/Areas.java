@@ -9,7 +9,6 @@ import com.administracion.Area;
 import com.ficheros.EscribirFichero;
 import static com.metodos.Grupos.grupos;
 import java.util.HashMap;
-import java.util.Iterator;
 import javax.swing.JOptionPane;
 
 /**

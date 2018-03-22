@@ -5,14 +5,12 @@
  */
 package proyecto_gimnasio;
 
-import com.ficheros.EscribirFichero;
 import com.ficheros.LeerFichero;
 import com.menus.MenuPrincipal;
 import com.metodos.Areas;
 import com.metodos.Clientes;
 import com.metodos.Grupos;
 import com.metodos.Monitores;
-import javax.swing.JOptionPane;
 
 /**
  *

@@ -5,14 +5,12 @@
  */
 package com.metodos;
 
-import com.administracion.Area;
 import com.administracion.Grupo;
 import com.ficheros.EscribirFichero;
 import static com.metodos.Areas.areas;
 import static com.metodos.Clientes.clientes;
 import static com.metodos.Monitores.monitores;
 import java.util.HashMap;
-import java.util.Iterator;
 import javax.swing.JOptionPane;
 
 /**

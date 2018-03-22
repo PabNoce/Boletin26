@@ -5,12 +5,10 @@
  */
 package com.metodos;
 
-import com.administracion.Grupo;
 import com.administracion.Monitor;
 import com.ficheros.EscribirFichero;
 import static com.metodos.Grupos.grupos;
 import java.util.HashMap;
-import java.util.Iterator;
 import javax.swing.JOptionPane;
 
 /**

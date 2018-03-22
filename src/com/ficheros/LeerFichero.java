@@ -14,8 +14,6 @@ import com.metodos.Clientes;
 import com.metodos.Grupos;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
-import java.util.HashMap;
 import java.util.Scanner;
 
 /**
